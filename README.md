@@ -4,14 +4,14 @@ Here's the translation: "In this repository, a series of steps are developed for
 
 ## Planning & Design Tree
 
-  1. Requirements \n
-  2. Design Document
-    2.1. Document Creation
-    2.2. Document Review
-  3. Architecture Development
-    3.1. High-Level Architecture
-    3.2. Low-Level Architecture
-  4. Continuous Integration Plan
+  1. Requirements <br>
+  2. Design Document <br>
+    2.1. Document Creation <br>
+    2.2. Document Review <br>
+  3. Architecture Development <br>
+    3.1. High-Level Architecture <br>
+    3.2. Low-Level Architecture <br>
+  4. Continuous Integration Plan <br>
 
 
 
