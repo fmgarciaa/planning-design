@@ -6,12 +6,13 @@ Here's the translation: "In this repository, a series of steps are developed for
 
 1. Requirements
 2. Design Document
-2.1. Document Creation
-2.2. Document Review
+   2.1. Document Creation
+   2.2. Document Review
 3. Architecture Development
-3.1. High-Level Architecture
-3.2. Low-Level Architecture
+   3.1. High-Level Architecture
+   3.2. Low-Level Architecture
 4. Continuous Integration Plan
+
 
 
 ## 1. Requirements
