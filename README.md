@@ -4,7 +4,7 @@ Here's the translation: "In this repository, a series of steps are developed for
 
 ## Planning & Design Tree
 
-  1. Requirements
+  1. Requirements \n
   2. Design Document
     2.1. Document Creation
     2.2. Document Review
